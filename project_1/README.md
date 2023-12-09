@@ -23,4 +23,4 @@
 
 ### Этапы работы над проектом  
 
-Были проделаны все шаги по анализу, обработке, очистке данных. 
+Были проделаны все шаги по анализу, обработке, очистке данных. Результат работы [HeadHunter.ipynb](https://github.com/eelvira/SkillFactoryDS/blob/main/project_1/HeadHunter.ipynb)
